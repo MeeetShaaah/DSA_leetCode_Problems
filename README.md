@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
