@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
 ## String
