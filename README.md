@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -73,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
