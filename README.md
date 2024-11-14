@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0238-product-of-array-except-self) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
