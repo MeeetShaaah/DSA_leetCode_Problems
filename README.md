@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
