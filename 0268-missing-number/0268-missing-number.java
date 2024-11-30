@@ -1,15 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int number = nums.length;
-
-        int s1 = number *(number+1)/2;
-
-        int s2 = 0;
+        HashSet<Integer> numsSet = new HashSet<>();
 
         for (int i : nums){
-            s2 += i;
+            numsSet.add(i);
         }
 
-        return s1-s2;
+        for(int i = 0; i <=nums.length; i++){
+            if(!numsSet.contains(i)) return i;
+        }
+        return -1;
     }
 }
