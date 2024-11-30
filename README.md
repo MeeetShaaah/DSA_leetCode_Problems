@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0485-max-consecutive-ones) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
