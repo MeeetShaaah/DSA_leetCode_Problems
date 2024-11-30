@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0283-move-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
@@ -122,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
