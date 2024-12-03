@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
