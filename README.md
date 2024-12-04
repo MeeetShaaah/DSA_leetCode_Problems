@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0075-sort-colors) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
