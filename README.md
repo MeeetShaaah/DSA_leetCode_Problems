@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
+| [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
