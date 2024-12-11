@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
