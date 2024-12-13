@@ -10,11 +10,10 @@ public class Node{
 
 class MyLinkedList {
     private Node head;
-    private int size;
+    private int size = 0;
 
     public MyLinkedList() {
         head = null;
-        size = 0;   
     }
     
     public int get(int index) {
@@ -24,7 +23,7 @@ class MyLinkedList {
 
         for (int i = 0; i < index; i++){
             current = current.next;
-        }
+        } 
         return current.val;
     }
     
@@ -38,15 +37,13 @@ class MyLinkedList {
     
     public void addAtTail(int val) {
         Node newNode = new Node(val);
-
         if(head == null){
             head = newNode;
-        }else {
+        }else{
             Node current = head;
-            while (current.next != null){
+            while(current.next != null){
                 current = current.next;
             }
-
             current.next = newNode;
         }
         size++;
@@ -55,47 +52,46 @@ class MyLinkedList {
     public void addAtIndex(int index, int val) {
         if(index < 0 || index > size) return;
 
-        if(index == 0){ 
+        if(index == 0){
             addAtHead(val);
             return;
         }
 
-        if (index == size){
+        if(index == size){
             addAtTail(val);
             return;
-        }
+        }     
 
         Node newNode = new Node(val);
         Node current = head;
-
-        for (int i = 0; i < index - 1; i++){
+        
+        for(int i = 0; i < index - 1; i++){
             current = current.next;
-        }
-
+        }  
         newNode.next = current.next;
         current.next = newNode;
 
-        size++;    
+        size++;
     }
     
     public void deleteAtIndex(int index) {
-        if (index < 0 || index >= size) return;
 
-        if (index == 0){
+        if(index < 0 || index >= size) return;
+
+        if(index == 0){
             head = head.next;
             size--;
             return;
         }
 
         Node current = head;
-        for (int i = 0; i < index-1; i++){
+        for (int i = 0; i < index - 1; i++) {
             current = current.next;
         }
 
-        if (current.next != null) { // Avoid null pointer exception
-            current.next = current.next.next;
+        if (current.next != null) {
+            current.next = current.next.next; // Skip the target node
         }
-
         size--;
     }
 }
