@@ -1,4 +1,4 @@
-//Appoch - 3, Using Moor's voting Algorithm's
+//Appoch - 3, Using Moor's voting Algorithm...!!!
 
 class Solution {
     public int majorityElement(int[] nums) {
