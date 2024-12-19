@@ -10,7 +10,9 @@ class Solution {
 
                 char top = stack.peek();
 
-                if((c == ')' && top == '(') || (c == '}' && top == '{') || (c == ']' && top == '[')){
+                if((c == ')' && top == '(') || 
+                (c == '}' && top == '{') || 
+                (c == ']' && top == '[')){
                     stack.pop();
                 }else {
                     return false;
