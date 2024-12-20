@@ -1,4 +1,4 @@
-// Approch - 2, i dont understand the 
+// Approch - 2, i dont understand the 2*value - min
 class MinStack {
     Stack<Long> stack = new Stack<>();
     Long min;
