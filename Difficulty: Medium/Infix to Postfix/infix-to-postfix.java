@@ -43,6 +43,7 @@ class Solution {
     }
 
     
+    // this method is for the infixToPostFix conversion.
     public static String infixToPostfix(String s) {
         // Your code here
         Stack<Character> stack = new Stack<>();
@@ -86,6 +87,8 @@ class Solution {
         return result.toString();
     }
     
+    
+    //  this method id for infixToPrefix conversion.
     public static String infixToPrefix(String s) {
         // Step 1: Reverse the input string
         StringBuilder reversed = new StringBuilder(s).reverse();
