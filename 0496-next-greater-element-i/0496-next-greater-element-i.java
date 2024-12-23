@@ -1,4 +1,4 @@
-// Approch - 1, Using stack and hashmap
+// Approch - 1(self), Using stack and hashmap 
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         Stack<Integer> stack = new Stack<>();
