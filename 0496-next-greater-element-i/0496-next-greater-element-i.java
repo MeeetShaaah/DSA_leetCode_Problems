@@ -1,4 +1,4 @@
-// Approch - 1(self), Using stack and hashmap 
+// Approch - 2(self), traverse the array2 and find the next grater element, add that into hashmap, key will be the element and value will be the next grater one, 
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         Stack<Integer> stack = new Stack<>();
@@ -28,3 +28,5 @@ class Solution {
         return result;
     }
 }
+
+// Approch - 1, in brute force approch, pick one element from array 1 and traverse the entire array 2, if element found from that find the next grater element with while loop, the TC will be n3; not a optimal approch.
