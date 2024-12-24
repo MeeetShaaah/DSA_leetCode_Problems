@@ -38,6 +38,7 @@ System.out.println("~");
 
 //User function Template for Java
 
+// Approch, I am directly working with elements, but there is another method as well; you can work with the indices.
 class Solution {
 	public static int[] help_classmate(int arr[], int n) 
 	{ 
