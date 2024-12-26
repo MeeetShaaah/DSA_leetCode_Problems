@@ -12,7 +12,7 @@ class Solution {
                 int rightBound = i;
                 ans -= (long) nums[mid] * (mid - leftBound) * (rightBound - mid);
             }
-            if (i < nums.length){stack.push(i);}
+            stack.push(i);
         }
         stack.clear();
         for(int i = 0; i <= nums.length; i++){
@@ -23,7 +23,7 @@ class Solution {
                 int rightBound = i;
                 ans += (long) nums[mid] * (mid - leftBound) * (rightBound - mid);
             }
-            if (i < nums.length){stack.push(i);}
+            stack.push(i);
         }
         return ans;
     }
