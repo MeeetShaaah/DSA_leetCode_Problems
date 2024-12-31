@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0234-palindrome-linked-list) |
+| [0277-find-the-celebrity](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
@@ -312,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0239-sliding-window-maximum) |
+## Graph
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0277-find-the-celebrity) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
