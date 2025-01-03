@@ -1,28 +1,24 @@
-// GPT
+// used Chat GPT to solve this question,
+
 class Solution {
     public int characterReplacement(String s, int k) {
-        int left = 0, right = 0, maxFreq = 0, maxLength = 0;
-        int[] charCount = new int[26];  // Frequency array for A-Z
+        int[] charFreq = new int[26];
+        int left = 0, right = 0;
+        int maxFreq = 0, length = 0;
 
-        while (right < s.length()) {
-            // Increase the frequency of the current character
-            charCount[s.charAt(right) - 'A']++;
-            // Track the maximum frequency of any character in the window
-            maxFreq = Math.max(maxFreq, charCount[s.charAt(right) - 'A']);
-            
-            // Window size: (right - left + 1)
-            // If (window size - maxFreq) > k, shrink the window
-            if ((right - left + 1) - maxFreq > k) {
-                // Decrement frequency of left character and shrink
-                charCount[s.charAt(left) - 'A']--;
+
+        while (right < s.length()){
+            charFreq[s.charAt(right) - 'A']++;
+            maxFreq = Math.max(maxFreq, charFreq[s.charAt(right) - 'A']);
+
+            if((right - left + 1) - maxFreq > k){
+                charFreq[s.charAt(left) - 'A']--;
                 left++;
             }
-            
-            // Update the maxLength of the window
-            maxLength = Math.max(maxLength, right - left + 1);
-            right++;
-        }
 
-        return maxLength;
+            length = Math.max(length, right - left +1);
+            right++;
+        }        
+        return length;
     }
 }
