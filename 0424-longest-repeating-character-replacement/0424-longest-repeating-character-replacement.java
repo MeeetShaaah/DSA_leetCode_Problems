@@ -11,7 +11,7 @@ class Solution {
             charFreq[s.charAt(right) - 'A']++;
             maxFreq = Math.max(maxFreq, charFreq[s.charAt(right) - 'A']);
 
-            if((right - left + 1) - maxFreq > k){
+            while((right - left + 1) - maxFreq > k){
                 charFreq[s.charAt(left) - 'A']--;
                 left++;
             }
