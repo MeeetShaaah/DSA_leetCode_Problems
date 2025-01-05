@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1833-find-the-highest-altitude) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1054-complement-of-base-10-integer) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
