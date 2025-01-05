@@ -1,3 +1,4 @@
+// Easy problem, but check the conditions **
 class Solution {
     public int numberOfSubstrings(String s) {
         int[] count = {0,0,0};
@@ -13,7 +14,7 @@ class Solution {
                 left++;
             }
 
-            res += left;
+            res += left; //**
         }
 
         return res;
@@ -31,7 +32,7 @@ class Solution {
 //             freq[s.charAt(right) - 'a']++;
 
 //             while(freq[0] > 0 && freq[1] > 0 && freq[2] > 0){
-//                 answer += s.length() - right;
+//                 answer += s.length() - right;  //**
 
 //                 freq[s.charAt(left) - 'a']--;
 //                 left++;
