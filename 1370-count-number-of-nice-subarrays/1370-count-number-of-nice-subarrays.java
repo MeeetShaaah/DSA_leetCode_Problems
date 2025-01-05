@@ -2,19 +2,21 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         int currentSum = 0;
-        int subArrays = 0;
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(currentSum, 1);
+        int result = 0;
 
-        for (int i = 0; i < nums.length; i++){
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0,1);
+
+        for(int i = 0; i < nums.length; i++){
             currentSum += nums[i] % 2;
+
             if(map.containsKey(currentSum - k)){
-                subArrays += map.get(currentSum - k);
+                result += map.get(currentSum - k);
             }
 
-            map.put(currentSum, map.getOrDefault(currentSum, 0) + 1);
+        map.put(currentSum, map.getOrDefault(currentSum, 0) + 1);
         }
-        return subArrays;
+        return result;
     }
 }
 
