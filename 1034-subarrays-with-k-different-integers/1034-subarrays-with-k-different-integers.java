@@ -1,3 +1,4 @@
+// Approch - 2, instead of hashmap we can use frequency counter length of n, this wiill be better approach...it is same like hashmap but in effecient way.
 // Approch - 1, my intuition is, this problem can be solved using sliding window and hashmap, the question arrise how ?
 class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
