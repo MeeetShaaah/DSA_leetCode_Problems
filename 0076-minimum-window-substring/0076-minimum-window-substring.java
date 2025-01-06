@@ -11,15 +11,17 @@ class Solution {
 
         int left = 0;
         int right = 0;
-        HashMap<Character, Integer> sFreq = new HashMap<>();
+        HashMap<Character, Integer> windowFreq = new HashMap<>();
         int formed = 0;
         int minLen = Integer.MAX_VALUE;
         int start = 0; 
 
         while (right < s.length()){
             char c = s.charAt(right);
-            sFreq.put(c, sFreq.getOrDefault(c, 0) + 1);
-            if(tFreq.containsKey(c) && sFreq.get(c).equals(tFreq.get(c))){
+
+            windowFreq.put(c, windowFreq.getOrDefault(c, 0) + 1);
+
+            if(tFreq.containsKey(c) && windowFreq.get(c).equals(tFreq.get(c))){
                 formed++;
             }
 
@@ -31,9 +33,9 @@ class Solution {
                     minLen = right - left + 1; 
                 }
 
-                sFreq.put(startChar, sFreq.getOrDefault(startChar, 0) - 1);
+                windowFreq.put(startChar, windowFreq.getOrDefault(startChar, 0) - 1);
 
-                if (tFreq.containsKey(startChar) && sFreq.get(startChar) < tFreq.get(startChar)) {
+                if (tFreq.containsKey(startChar) && windowFreq.get(startChar) < tFreq.get(startChar)) {
                     formed--;
                 }
                 left++;
