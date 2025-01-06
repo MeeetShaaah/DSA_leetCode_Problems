@@ -1,3 +1,7 @@
+// This code finds the length of the longest substring with at most k distinct characters.
+// It uses a sliding window approach and an array of size 256 to track character frequencies.
+// The counter keeps track of distinct characters, shrinking the window when the count exceeds k.
+
 class Solution {
     public int lengthOfLongestSubstringKDistinct(String s, int k) {
         int left = 0;
