@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0496-next-greater-element-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0242-valid-anagram) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0402-remove-k-digits) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0239-sliding-window-maximum) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1046-max-consecutive-ones-iii) |
