@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
