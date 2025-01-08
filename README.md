@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0085-maximal-rectangle) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0937-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
