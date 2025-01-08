@@ -1,0 +1,17 @@
+// Approach - 1, normal brute force method is 2 loops, 1st forloop iterate the words array, 2nd start form i+1 and, check the words
+class Solution {
+    public int countPrefixSuffixPairs(String[] words) {
+        int count = 0;
+        for(int i = 0; i < words.length; i++){
+            for(int j = i+1; j < words.length; j++){
+               if(words[j].startsWith(words[i]) && words[j].endsWith(words[i])){
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+}
+
+
+
