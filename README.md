@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,11 +296,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -402,4 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
