@@ -4,6 +4,8 @@ class Solution {
         int right = nums.length - 1;
         int ans = Integer.MAX_VALUE;
 
+        if(nums[left] < nums[right]) return Math.min(ans, nums[left]);
+        
         while (left <= right){
             int mid = left + (right - left)/2;
 
