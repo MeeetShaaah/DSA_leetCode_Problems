@@ -1,4 +1,4 @@
-// I am not getting how to apply binary in this question, 
+// I am not getting how to apply binary in this question, go through this again
 class Solution {
     public int findPeakElement(int[] nums) {
         int l = 0;
