@@ -1,4 +1,4 @@
-// saw the solution I am not gettig this how this guys are solving the problem 
+// saw the solution I am not gettig this how this guys are solving the problem, i literally copied and past it from GPT
 
 class Solution {
     // Helper function to check if it's possible to make 'requiredBouquets' with 'flowersPerBouquet'
