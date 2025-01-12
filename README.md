@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Simulation
 |  |
