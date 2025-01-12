@@ -1,4 +1,4 @@
-// used GPT, ltraicky question, go thriugh this again and solve this
+// used GPT, traicky question, go through this again and solve this
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int low = 0, high = 0;
