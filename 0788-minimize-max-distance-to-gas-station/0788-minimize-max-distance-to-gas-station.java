@@ -1,13 +1,18 @@
 // my logic was right but still used chatGPT to solve this question.
 class Solution {
-    private int noOfStationsToAdd(int[] stations, double maxDist) {
+    private boolean noOfStationsToAdd(int[] stations, double maxDist, int k) {
         int count = 0;
         for (int i = 0; i < stations.length - 1; i++) {
             double gap = stations[i + 1] - stations[i];
             // Calculate how many stations are needed in this gap
             count += (int) Math.ceil(gap / maxDist) - 1;
         }
-        return count;
+        
+        if(count > k){
+            return true;
+        }else{
+            return false;
+        }
     }
 
     public double minmaxGasDist(int[] stations, int k) {
@@ -21,12 +26,12 @@ class Solution {
         while (high - low > precision) {
             double mid = (low + high) / 2;
 
-            if (noOfStationsToAdd(stations, mid) > k) {
+            if (noOfStationsToAdd(stations, mid, k)) {
                 // Too many stations needed, increase maxDist
-                low = mid;
+                low = mid; // we are dealing with the pecisions thats why, thing again.
             } else {
                 // Fewer or exact stations, try reducing maxDist
-                high = mid;
+                high = mid; // we are dealing with the pecisions thats why, thing again.
             }
         }
 
