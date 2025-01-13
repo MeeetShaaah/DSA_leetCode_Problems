@@ -17,7 +17,6 @@ class Solution {
 
     public double minmaxGasDist(int[] stations, int k) {
         // Sort stations to ensure proper calculation
-        Arrays.sort(stations);
 
         double low = 0.0;
         double high = stations[stations.length - 1] - stations[0];
