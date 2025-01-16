@@ -1,4 +1,4 @@
-// Approach - 2, 
+// Approach - 2, its easy banchod, still didnt get this solutionn.. fuck Me...
 class Solution {
     public int xorAllNums(int[] nums1, int[] nums2) {
         int ans = 0;
