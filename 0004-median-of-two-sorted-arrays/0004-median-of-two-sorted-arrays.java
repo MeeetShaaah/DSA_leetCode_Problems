@@ -1,3 +1,5 @@
+//Approach - 2, The binary approach is pretty unique, have to understand the algorithm. "main focus is to redus the extra space....."
+
 //Approach - 1(self), Basic Brute Force approach is simple, just run a normal while loop with 2 pointers, issue with this approach is that we are using extra space, so have to comeup with better approach.
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
