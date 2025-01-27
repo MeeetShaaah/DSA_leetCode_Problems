@@ -1,0 +1,94 @@
+Striver's step:13; lec:1; Binary Tree Traversals in Binary Tree: PreOrder, InOrder, PostOrder
+
+Problem statement
+You have been given a Binary Tree of 'N'
+
+nodes, where the nodes have integer values.
+
+
+
+Your task is to return the ln-Order, Pre-Order, and Post-Order traversals of the given binary tree.
+
+Constraints :
+1 <= 'N' <= 10^5
+0 <= 'data' <= 10^5     
+
+where 'N' is the number of nodes and 'data' denotes the node value of the binary tree nodes.
+
+Time limit: 1 sec
+
+
+
+/*********************************************************
+
+ Following is the TreeNode structure:
+
+ class TreeNode {
+     int data;
+     TreeNode left;
+     TreeNode right;
+     TreeNode() {
+         this.data = 0;
+         this.left = null;
+         this.right = null;
+     }
+     TreeNode(int data) {
+         this.data = data;
+         this.left = null;
+         this.right = null;
+     }
+     TreeNode(int data, TreeNode left, TreeNode right) {
+         this.data = data;
+         this.left = left;
+         this.right = right;
+     }
+ };
+ ********************************************************/
+
+import java.util.ArrayList;
+import java.util.List;
+public class Solution {
+    private static void inOrder(TreeNode root, List<Integer> result){
+
+        if(root == null) return;
+
+        inOrder(root.left, result);
+        result.add(root.data);
+        inOrder(root.right, result);
+    }
+
+    private static void preOrder(TreeNode root, List<Integer> result){
+        if(root == null) return;
+
+        result.add(root.data);
+        preOrder(root.left, result);
+        preOrder(root.right, result);
+    }
+
+    private static void postOrder(TreeNode root, List<Integer> result){
+        if(root == null) return;
+
+        postOrder(root.left, result);
+        postOrder(root.right, result);
+        result.add(root.data);
+    }
+
+    public static List<List<Integer>> getTreeTraversal(TreeNode root) {
+        // Write your code here.
+        List<List<Integer>> result = new ArrayList<>();
+
+        List<Integer> inOrderList = new ArrayList<>();
+        List<Integer> preOrderList = new ArrayList<>();
+        List<Integer> postOrderList = new ArrayList<>();
+
+        inOrder(root, inOrderList);
+        preOrder(root, preOrderList);
+        postOrder(root, postOrderList);
+
+        result.add(inOrderList);
+        result.add(preOrderList);
+        result.add(postOrderList);
+
+        return result;
+    }   
+}
