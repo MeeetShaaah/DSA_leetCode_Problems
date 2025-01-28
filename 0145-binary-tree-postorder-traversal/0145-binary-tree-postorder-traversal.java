@@ -13,8 +13,8 @@
  *     }
  * }
  */
-
-// iterative using 2 stack;
+// Iterative Approach using 1 stack is bit complex; 
+// Iterative using 2 stack;
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
