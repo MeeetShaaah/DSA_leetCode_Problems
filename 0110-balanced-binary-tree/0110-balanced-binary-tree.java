@@ -16,7 +16,7 @@
 
 // A balanced binary tree is a binary tree in which the height difference
 // between the left and right subtrees of any node is at most 1.
-// \U0001f4cc Formal Definition
+// 📌 Formal Definition
 // A binary tree is height-balanced if, for every node:
 
 // abs( height(left subtree) - height(right subtree) )
@@ -25,6 +25,7 @@
 // abs( height(left subtree) - height(right subtree) )≤1
 // If any node in the tree violates this condition, the tree is unbalanced.
 
+// I am not getting the optimal solution that how it works.....
 class Solution {
     public boolean isBalanced(TreeNode root) {
         return height(root) != -1; 
