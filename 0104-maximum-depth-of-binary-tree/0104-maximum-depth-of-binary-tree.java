@@ -13,25 +13,33 @@
  *     }
  * }
  */
-
-// Approach - 1, we can do BFS add the elements in list<list> and return the size of outer list; TC - SC will be O(N);
-
+// Approach - 2, 
 class Solution {
-    List<List<Integer>> result = new ArrayList<>();
-
-    private void helper(TreeNode node, int level){
-        if(result.size() == level){
-            result.add(new ArrayList<Integer>());
-        }
-        result.get(level).add(node.val);
-        if(node.left != null) helper(node.left, level + 1);
-        if(node.right != null) helper(node.right, level + 1);
-    }
-
     public int maxDepth(TreeNode root) {
-        if(root == null) return result.size();
-
-        helper(root, 0);
-        return result.size();    
+        if (root == null) return 0;
+        
+        return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 }
+
+// Approach - 1, we can do BFS add the elements in list<list> and return the size of outer list; TC - SC will be O(N); [very naive approach... no need to add elements in list]
+
+// class Solution {
+//     List<List<Integer>> result = new ArrayList<>();
+
+//     private void helper(TreeNode node, int level){
+//         if(result.size() == level){
+//             result.add(new ArrayList<Integer>());
+//         }
+//         result.get(level).add(node.val);
+//         if(node.left != null) helper(node.left, level + 1);
+//         if(node.right != null) helper(node.right, level + 1);
+//     }
+
+//     public int maxDepth(TreeNode root) {
+//         if(root == null) return result.size();
+
+//         helper(root, 0);
+//         return result.size();    
+//     }
+// }
