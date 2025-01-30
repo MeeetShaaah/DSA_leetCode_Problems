@@ -521,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
