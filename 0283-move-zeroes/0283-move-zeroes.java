@@ -1,26 +1,19 @@
-// logic - should start from first 0, so 1st i have to find 1st zero
-// edge case, no zero found
+//also another apparoch is that, simply just update the number and whateber the spaces left later add zeros.
 
 class Solution {
     public void moveZeroes(int[] nums) {
-        int j = -1;
+        int writer = 0;
 
-        for(int i=0; i < nums.length; i++){
-            if(nums[i] == 0){
-                j = i;
-                break;
-            }
+        for(int reader = 0; reader < nums.length; reader++){
+            if(nums[reader] != 0){
+                nums[writer] = nums[reader];
+                writer++;
+            } 
         }
 
-        if (j == -1) return;
-
-        for(int i = j+1; i<nums.length; i++){
-            if(nums[i] != 0){
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
-                j++;
-            }
+        while(writer < nums.length){
+            nums[writer] = 0;
+            writer++;
         }
     }
 }
