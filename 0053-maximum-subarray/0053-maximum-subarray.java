@@ -1,34 +1,27 @@
-// Same as 2nd approch, but the implementation style is differnet..
+// prefix Sum, 
 class Solution {
     public int maxSubArray(int[] nums) {
-      int sum = 0;
-      int max = Integer.MIN_VALUE;
+        int i = 0;
+        int j = 0;
+        int sum = 0;
+        int max = nums[0];
 
-      for (int num : nums){
-        sum = Math.max(sum + num, num);
-        max = Math.max(max, sum);
-      }  
-      return max;
+        if(nums.length == 1){
+            return nums[0];
+        }
+
+        while(j < nums.length){
+            
+            sum += nums[j]; 
+            
+            max = Math.max(max, sum);
+            while(sum < 0 && i <= j){
+                sum -= nums[i];
+                i++;
+            }
+
+            j++;
+        }
+        return max;
     }
 }
-
-
-// Approch - 2, known as Kadane's Algorithm, very it is just a math
-// class Solution {
-//     public int maxSubArray(int[] nums) {
-
-//         int sum = 0;
-//         int max = Integer.MIN_VALUE;
-
-//         for (int num : nums){
-//             sum += num;
-
-//             if (sum > max) max = sum;
-
-//             if (sum < 0) sum = 0;
-//         }
-//         return max;
-//     }
-// }
-
-// Approch - 1, brute force, 2 for loops, 1st to pick the element and 2nd to calculate the sum and then Math.max
