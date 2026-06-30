@@ -1,4 +1,5 @@
-// prefix Sum, 
+// prefix Sum,[-2.-1] 
+
 class Solution {
     public int maxSubArray(int[] nums) {
         int i = 0;
