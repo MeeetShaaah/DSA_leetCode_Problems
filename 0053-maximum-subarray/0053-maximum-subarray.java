@@ -6,9 +6,9 @@ class Solution {
         int sum = 0;
         int max = nums[0];
 
-        if(nums.length == 1){
-            return nums[0];
-        }
+        // if(nums.length == 1){
+        //     return nums[0];
+        // }
 
         while(j < nums.length){
             
