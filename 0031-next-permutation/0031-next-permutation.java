@@ -1,44 +1,39 @@
-// didt do it by my self, saw the solution and rewrite the code, 
-// Step - 1, find the break point (when, traversing from tail, i+1 > i, called breakPoint)
-// Step - 2, check the breakPoint == -1, means the whole array is in descending order, simply reverse and it will be the next permutation
-// Step - 3, if find the breakPoint then, find the element which is larger then the breakPoint but that element is smallest larger from tail,
-// Step - 4, reverse the right part from breakPoint.
-
 class Solution {
     public void nextPermutation(int[] nums) {
-        int breakPoint = -1;
 
-        for (int i = nums.length -2; i >= 0; i--){
-            if (nums[i] < nums[i+1]){
-                breakPoint = i;
+        int j = nums.length - 1;
+        int marker = -1;
+
+        while(j > 0){
+            if(nums[j] > nums[j-1]){
+                marker = j-1;
                 break;
             }
-        }
+            j--;
+        }      
 
-        if (breakPoint == -1){
-            reverse(nums, 0, nums.length -1);
-            return; 
-        }
-
-        for (int i = nums.length - 1; i > breakPoint; i--){
-            if (nums[breakPoint] < nums[i]){
-                int temp = nums[breakPoint];
-                nums[breakPoint] = nums[i];
-                nums[i] = temp;
+        for(int i = nums.length - 1; i > marker; i--){
+            if((marker != -1) && (nums[i] > nums[marker])){
+                int temp = nums[i];
+                nums[i] = nums[marker];
+                nums[marker] = temp;
                 break;
             }
-        }
+        }  
 
-        reverse(nums, breakPoint + 1, nums.length - 1);
-    }
+        int m = marker + 1;
+        int n = nums.length - 1;
 
-    private void reverse(int[] arr, int start, int end){
-        while (start < end){
-            int temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-            start ++;
-            end--;
+        while (m < n){
+            int temp = nums[m];
+            nums[m] = nums[n];
+            nums[n] = temp;
+
+            m++;
+            n--;
         }
     }
 }
+
+// [1,2,3]
+// 1, 3, 2
