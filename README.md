@@ -528,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0175-combine-two-tables) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
