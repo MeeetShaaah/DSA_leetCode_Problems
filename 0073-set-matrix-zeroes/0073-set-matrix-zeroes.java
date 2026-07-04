@@ -23,7 +23,6 @@ class Solution {
                     matrix[i][j] = 0;
                 }
             }
-
             if(col0Marker == 0){
                 matrix[i][0] = 0;
             }
