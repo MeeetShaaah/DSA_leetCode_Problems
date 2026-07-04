@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0141-linked-list-cycle) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0085-maximal-rectangle) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
