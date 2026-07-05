@@ -4,13 +4,12 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
         List<Integer> list = new ArrayList<>();
 
+        int min = n/3 + 1;
         for (int num : nums){
             map.put(num, map.getOrDefault(num, 0) + 1);
-        }
 
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            if((entry.getValue()) > (n/3)){
-                list.add(entry.getKey());
+            if(map.get(num) == min){
+                list.add(num);
             }
         }
         return list;
