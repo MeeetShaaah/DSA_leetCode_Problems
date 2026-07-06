@@ -4,7 +4,8 @@ class Solution {
 
         Arrays.sort(nums);
 
-        Set<List<Integer>> set = new HashSet<>();
+        // Set<List<Integer>> set = new HashSet<>();
+        List<List<Integer>> list = new ArrayList<>();
 
         for (int i = 0; i < nums.length; i++) {
 
@@ -26,7 +27,8 @@ class Solution {
                     sum = (long)nums[i] + (long)nums[j] + (long)nums[left] + (long)nums[right];
 
                     if(sum == target){
-                        set.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
+                        // set.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
+                        list.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
                         left++;
                         right--;
 
@@ -45,6 +47,7 @@ class Solution {
                 }
             }
         }
-        return new ArrayList(set);
+        // return new ArrayList(set);
+        return list;
     }
 }
