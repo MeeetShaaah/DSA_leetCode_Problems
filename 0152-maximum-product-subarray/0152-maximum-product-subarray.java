@@ -1,22 +1,23 @@
-// Approch - 2, prefix an suffix profuct, but the issue is when zero comes, so we have to again change the value of that varibles....!!!
 class Solution {
     public int maxProduct(int[] nums) {
-        int pre = 1;
-        int suf = 1;
+        int max = Integer.MIN_VALUE;
 
-        int ans = Integer.MIN_VALUE;
+        int n = nums.length;
 
-        for (int i = 0; i < nums.length; i++){
-            if (pre == 0) pre = 1;
-            if (suf == 0) suf = 1;
+        int prefix = 1;
+        int suffix = 1;
 
-            pre *= nums[i];
-            suf *= nums[nums.length - i -1];
+        for(int i = 0; i < n; i++){
 
-            ans = Math.max(ans, Math.max(pre, suf)); 
+            if(prefix == 0){prefix = 1;}
+
+            if(suffix == 0){suffix = 1;}
+
+            prefix *= nums[i];
+            suffix *= nums[n-i-1];
+
+            max = Math.max(max, Math.max(prefix, suffix));
         }
-        return ans;
+        return max;
     }
 }
-
-// Approch - 1, Brute Force approch, pich one element using for loop and multiple it, with another loop, check max after 2nd loop, do this process n times, and again check for mx before execting the 2nd loop.
