@@ -4,13 +4,15 @@ class Solution {
         HashMap<String, List<String>> map = new HashMap<>();
 
         for(String s : strs){
+
+            char[] freq = new char[26];
             
-            char[] ch = s.toCharArray();
+            for(char c : s.toCharArray()){
+                freq[c - 'a']++;
+            }
 
-            Arrays.sort(ch);
-
-            String key = Arrays.toString(ch);
-
+            String key = new String(freq);
+            
             if(!map.containsKey(key)){
                 map.put(key, new ArrayList<>());
             }
