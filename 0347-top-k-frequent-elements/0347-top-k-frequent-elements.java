@@ -11,10 +11,9 @@ class Solution {
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
             if (bucket[entry.getValue()] == null) {
                 bucket[entry.getValue()] = new ArrayList<>();
-                bucket[entry.getValue()].add(entry.getKey());
-            } else {
-                bucket[entry.getValue()].add(entry.getKey());
             }
+            
+            bucket[entry.getValue()].add(entry.getKey());
         }
 
         int[] top = new int[k];
@@ -23,8 +22,8 @@ class Solution {
             if (bucket[i] != null) {
                 for (int value : bucket[i]) {
                     if (k > 0) {
-                        top[k-1] = value;
-                        k--;
+                        top[--k] = value;
+                        // k--;
                     }
                 }
             }
