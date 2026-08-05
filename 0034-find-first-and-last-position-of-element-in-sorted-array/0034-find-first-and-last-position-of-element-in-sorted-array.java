@@ -1,23 +1,22 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] result = new int[2];
 
-        result[0] = findStartingIndex(nums, target);
-        result[1] = findEndingIndex(nums, target);
+        int first = firstOccurance(nums, target);
+        int last = lastOccurance(nums, target);
 
-        return result;
+        return new int[] { first, last };
     }
 
-    private int findStartingIndex(int[] nums, int target){
+    public int firstOccurance(int[] nums, int target){
         int left = 0;
         int right = nums.length - 1;
-        int start = -1;
+        int answer = -1;
 
         while(left <= right){
-            int mid = left + (right - left)/2;
+            int mid = left + (right - left) / 2;
 
             if(nums[mid] == target){
-                start = mid;
+                answer = mid;
                 right = mid - 1;
             }else if(nums[mid] > target){
                 right = mid - 1;
@@ -25,19 +24,19 @@ class Solution {
                 left = mid + 1;
             }
         }
-        return start;
+        return answer;
     }
 
-    private int findEndingIndex(int[] nums, int target){
+    public int lastOccurance(int[] nums, int target){
         int left = 0;
         int right = nums.length - 1;
-        int end = -1;
+        int answer = -1;
 
         while(left <= right){
-            int mid = left + (right - left)/2;
+            int mid = left + (right - left) / 2;
 
             if(nums[mid] == target){
-                end = mid;
+                answer = mid;
                 left = mid + 1;
             }else if(nums[mid] > target){
                 right = mid - 1;
@@ -45,6 +44,6 @@ class Solution {
                 left = mid + 1;
             }
         }
-        return end;
+        return answer;
     }
 }
