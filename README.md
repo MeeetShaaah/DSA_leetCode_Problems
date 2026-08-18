@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0009-palindrome-number) |
@@ -20,8 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0011-container-with-most-water) |
@@ -104,8 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0013-roman-to-integer) |
@@ -138,8 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0049-group-anagrams) |
@@ -156,8 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -171,8 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0148-sort-list) |
@@ -181,8 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0136-single-number) |
@@ -195,15 +195,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0073-set-matrix-zeroes) |
@@ -211,8 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0015-3sum) |
@@ -243,8 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0008-string-to-integer-atoi) |
@@ -275,8 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0045-jump-game-ii) |
@@ -293,8 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
@@ -303,8 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0055-jump-game) |
@@ -314,8 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -336,8 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -359,42 +359,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-rotate-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0141-linked-list-cycle) |
@@ -410,8 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0225-implement-stack-using-queues) |
@@ -419,18 +419,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0937-online-stock-span) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0148-sort-list) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0085-maximal-rectangle) |
@@ -441,8 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0239-sliding-window-maximum) |
@@ -455,52 +455,52 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0239-sliding-window-maximum) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0277-find-the-celebrity](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0277-find-the-celebrity) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0277-find-the-celebrity](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0277-find-the-celebrity) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0146-lru-cache) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0937-online-stock-span](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0937-online-stock-span) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0078-subsets) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0204-count-primes) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0204-count-primes) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -514,8 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0545-boundary-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -527,8 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0545-boundary-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -542,23 +542,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0545-boundary-of-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0545-boundary-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0175-combine-two-tables) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
