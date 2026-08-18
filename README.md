@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0540-single-element-in-a-sorted-array) |
