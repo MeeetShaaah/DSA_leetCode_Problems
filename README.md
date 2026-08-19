@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 | Problem Name | Difficulty |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1903-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0410-split-array-largest-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 | Problem Name | Difficulty |
