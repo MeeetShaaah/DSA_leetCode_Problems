@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1524-string-matching-in-an-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
@@ -574,4 +576,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
