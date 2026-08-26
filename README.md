@@ -577,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
