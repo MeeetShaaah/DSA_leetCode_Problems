@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2032-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1502-construct-k-palindrome-strings](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 | Problem Name | Difficulty |
