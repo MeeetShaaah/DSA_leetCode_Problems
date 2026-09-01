@@ -590,4 +590,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
