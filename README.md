@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0838-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 | Problem Name | Difficulty |
