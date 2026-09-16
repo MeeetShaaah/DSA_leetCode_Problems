@@ -48,11 +48,12 @@ class Solution {
 		}
 		
 		// 0 → 1 → 2
-		zeroTail.next = (oneDummy.next != null)
-		? oneDummy.next
-		: twoDummy.next;
-		
-		oneTail.next = twoDummy.next;
+		if (oneDummy.next == null) {
+			zeroTail.next = twoDummy.next;
+		} else {
+			zeroTail.next = oneDummy.next;
+			oneTail.next = twoDummy.next;
+		}
 		
 		return zeroDummy.next;
 	}
