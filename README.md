@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0146-lru-cache) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0061-rotate-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0146-lru-cache) |
