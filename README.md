@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0234-palindrome-linked-list) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0146-lru-cache) |
