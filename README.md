@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2102-find-the-middle-index-in-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0937-online-stock-span](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
 | Problem Name | Difficulty |
