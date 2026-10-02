@@ -611,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
