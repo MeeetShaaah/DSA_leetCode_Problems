@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
