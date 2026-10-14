@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0460-lfu-cache/) | Hard |
 | [0838-design-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0838-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0460-lfu-cache/) | Hard |
 | [0838-design-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0838-design-linked-list) |
 | [0901-online-stock-span](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0901-online-stock-span/) | Medium |
 | [0937-online-stock-span](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0937-online-stock-span) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0460-lfu-cache/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
