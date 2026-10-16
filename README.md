@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1370-count-number-of-nice-subarrays](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0943-sum-of-subarray-minimums](https://github.com/MeeetShaaah/DSA_leetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Counting
@@ -626,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/MeeetShaaah/DSA_leetCode_Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
